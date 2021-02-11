@@ -1,13 +1,20 @@
 {
   "name": "cli-intromsg",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prints a Welcome Message for CLI's",
   "main": "index.js",
   "files": ["index.js"],
   "scripts": {
     "test": "node test.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "author": {
+    "name": "Paras Arora",
+    "email": "paras.arora0025@gmail.com",
+    "url": "https://www.twitter.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": ""
+  }
 }
